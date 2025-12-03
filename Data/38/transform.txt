@@ -1,0 +1,1 @@
+{"position": [0, 0, 0], "scale": [1, 1, 1], "rotation": [0, 0, 90], "shape": [10.52, 10.16, 1], "image_path": "C:/Users/ragul/Downloads/2d_blueprint_to_3d_model-main/Images/Examples/example4.png", "origin_path": "Data/38/", "data_path": "Data/38/"}

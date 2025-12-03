@@ -1,0 +1,1 @@
+{"position": [0, 0, 0], "scale": [1, 1, 1], "rotation": [0, 0, 90], "shape": [50.94, 29.090000000000003, 1], "image_path": "C:/Users/ragul/Downloads/2D-Floor-Plan-Sample-Example.jpg", "origin_path": "Data/26/", "data_path": "Data/34/"}
