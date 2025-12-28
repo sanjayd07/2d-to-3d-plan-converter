@@ -71,9 +71,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **RAGUL VL** - [ragulvl](https://github.com/ragulvl)
-- **MANOJ M** - [manoj-mpp](https://github.com/manoj-mpp)
-- **DHARSHINI M** - [dharsh2326](https://github.com/dharsh2326)
+Sanjay
+Narendaran
+Sanjay Ram
 
 ## 📞 Contact
 
